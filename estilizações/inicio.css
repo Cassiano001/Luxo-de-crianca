@@ -1,0 +1,28 @@
+/* Estilização básica para aproximar do design original */
+.logo-luxo {
+  font-family: 'Arial Round', 'Ubuntu', sans-serif; /* Use uma fonte arredondada de sua preferência */
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 100px;
+  line-height: 0,9;
+  letter-spacing: -10px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.logo-luxo span {
+  color: var(--cor-letra);
+  display: inline-block;
+}
+/* Espaçamento extra entre as palavras da mesma linha */
+.logo-luxo .espaco {
+  width: 10px; 
+}
+/* Estilo para o texto inferior "Moda Infantil" */
+.subtitulo-moda {
+  font-family: 'Georgia', serif; /* Fonte com serifa elegante para o contraste */
+  color: #6D5B52; /* Tom marrom escuro acinzentado do logo original */
+  font-size: 35px;
+  text-align: center;
+  margin-top: 0;
+}
+
